@@ -1,4 +1,10 @@
-# Usage
+# MyFitnessPal to MyMacros
+
+The python script in this repo helps you convert your MyFitnessPal custom foods to MyMacros custom foods. 
+
+MyMacros doesn't provide UI import. You need to contact their support and send generated CSV along.
+
+## Usage
 
 Git clone this repo locally.
 
