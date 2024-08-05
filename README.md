@@ -2,8 +2,6 @@
 
 Git clone this repo locally.
 
-Run `poetry install` to fetch dependenices or just delete `from collections import Counter` line in `json-to-csv.py`.
-
 ## Extract custom food data from MyFitnessPal
 
 1. Goto https://www.myfitnesspal.com/food/mine
@@ -19,12 +17,6 @@ Run `poetry install` to fetch dependenices or just delete `from collections impo
 ```
 
 ## To run script
-
-```
-poetry run python json-to-csv.py
-```
-
-or in case you did not use poetry
 
 ```
 python json-to-csv.py

@@ -2,7 +2,7 @@ import csv
 import json
 from collections import Counter
 
-from rich import print
+# from rich import print
 
 # Open and read the JSON file
 with open("food-mine.json", "r") as file:
