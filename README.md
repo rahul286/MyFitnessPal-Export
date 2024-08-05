@@ -1,4 +1,12 @@
-# Usage
+# MyFitnessPal Export
+
+The python script in this repo helps you convert your MyFitnessPal custom foods to MyMacros custom foods comptabile CSV. 
+
+MyMacros doesn't provide UI import. You need to contact their support and send generated CSV along.
+
+Likewise you can make changes to generate CSV for other food tracking app if they support import.
+
+## Usage
 
 Git clone this repo locally.
 
